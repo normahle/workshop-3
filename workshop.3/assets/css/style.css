@@ -1,0 +1,36 @@
+@charset "utf-8";
+#header{
+   background-image: url(http://jos.gluweb.nl/lessen/web/blue.png);
+height: 150px;
+background-repeat: no-repeat;
+text-align: center;
+width: 960px;
+margin: 0 auto;
+color: #ffffff;
+font-size: 25px;
+font-family: arial;
+line-height: 150px;
+
+}
+
+#content{
+background-color: blueviolet;
+height: 125px;
+text-align:left;
+width: 960px;
+margin: 0 auto;
+color:black;
+font-size: 25px;
+font-family:'Franklin Gothic Medium';
+line-height: 150px}
+
+#footer {
+background-color: rgb(120, 92, 147);
+height: 200px;
+text-align:left;
+width: 960px;
+margin: 0 auto;
+color:palevioletred;
+font-size: 25px;
+font-family:'Times New Roman';
+line-height: 150px}
